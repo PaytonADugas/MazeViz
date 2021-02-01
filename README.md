@@ -4,7 +4,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>PaytonSite</title>
+    <title>PaytonSite</title> -- Haha, oh git hub.  Now sure why some of this isn't working.  Good enough.
   </head>
   <body>
     <div class="jumbotron">
