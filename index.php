@@ -5,9 +5,9 @@
     <title>PaytonSite</title>
   </head>
   <body>
-    <a href="css_demo.html>Link to CSS stuff</a>
-  <h1 class="display-4">Here is a h1 tag</h1>
-  <p class="lead">Here is a p tag</p>
+    <a href="css_demo.html">This is the demo file</a>
+    <h1 class="display-4">Here is a h1 tag</h1>
+    <p class="lead">Here is a p tag</p>
 </div>
   </body>
 </html>
