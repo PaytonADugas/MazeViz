@@ -15,6 +15,10 @@ font-family: 'Reggae One', cursive;
   padding-bottom: 20px;
 }
 
-.row{
-  margin: auto;
+.card{
+  margin: auto; 
+}
+
+.btn{
+  margin: auto; 
 }
