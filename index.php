@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>PaytonSite</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Reggae+One&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Ballet&family=Lexend+Mega&family=Reggae+One&display=swap" rel="stylesheet">
   </head>
   <body>
     <a href="css_demo.html">This is the demo file</a>
