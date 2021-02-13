@@ -10,7 +10,7 @@
   <body>
     <a href="css_demo.html">This is the demo file</a>
     <p></p>
-    <a href="bootstrap_starter.html">Bootstrap starter demo</a>
+    <a href="bootstrap_sample.html">Bootstrap starter demo</a>
     <h1 class="display-4">Here is a h1 tag</h1>
     <p class="lead">Here is a p tag</p>
     
