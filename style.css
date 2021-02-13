@@ -9,3 +9,8 @@ font-family: 'Ballet', cursive;
 .font_3{
 font-family: 'Reggae One', cursive;
 }
+
+.container{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
