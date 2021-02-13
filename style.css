@@ -14,3 +14,7 @@ font-family: 'Reggae One', cursive;
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+.col-sm{
+  margin: auto;
+}
