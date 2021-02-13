@@ -13,7 +13,8 @@
     <a href="bootstrap_sample.html">Bootstrap starter demo</a>
     <h1 class="display-4">Here is a h1 tag</h1>
     <p class="lead">Here is a p tag</p>
-    
+    <p>HELLO! I'm from Atom Text Editor<p>
+
     <p class="font_1">This is my fist font<p>
     <P class="font_2">This is my second font<p>
     <p class="font_3">This is my third font<p>
