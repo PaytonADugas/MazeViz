@@ -11,7 +11,7 @@ class Maze{
   }
 }
 
-maze = new Maze(10,10);
+maze = new Maze(30,30);
 var walls = [];
 var walls2 = [];
 
