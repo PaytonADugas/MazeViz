@@ -9,7 +9,7 @@
   </head>
   <body>
     <a href="css_demo.html">This is the demo file</a>
-    <a href="maze_project_2.maze.html">MAZE</a>
+    <a href="maze_project_2/maze.html">MAZE</a>
     <p></p>
     <a href="bootstrap_sample.html">Bootstrap starter demo</a>
     <h1 class="display-4">Here is a h1 tag</h1>
