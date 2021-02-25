@@ -1,0 +1,10 @@
+td{
+  height: 30px;
+  width: 30px;
+  /* border: 1px solid black !important; */
+}
+
+table{
+  margin: auto;
+  margin-top: 50px;
+}
