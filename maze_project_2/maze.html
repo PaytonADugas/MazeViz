@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+    <title>Maze</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap" rel="stylesheet">
+    <link rel='stylesheet' href='maze.css'>
+
+  </head>
+  <body>
+
+    <div class="container offTop",'offTop'>
+      <div class="jumbotron">
+        <h1 class="display-4 text-center">Maze</h1>
+        <h3 class="lead">Visualization of Depth First and Breadth First search</h3>
+        <hr class="my-4">
+        <div class='control_buttons'>
+          <div class='solve_buttons''s_grid'>
+            <button id='solve'type="button" class="btn btn-primary">Solve</button>
+            <button id='reset'type="button" class="btn btn-primary">Reset</button>
+          </div>
+          <div class="slidecontainer"'s_grid'>
+            <input id='slider'type="range" min="50" max="300" value="100" class="slider" id="myRange">
+            <p class='center_text'>Solve Speed</p>
+          </div>
+          <div class='maze_settings''s_grid'>
+            <div id='maze_size'class="dropdown">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Maze Size
+              </button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <p id='size_0'class="dropdown-item" href="#">5</p>
+                <p id='size_1'class="dropdown-item" href="#">10</p>
+                <p id='size_2'class="dropdown-item" href="#">20</p>
+                <p id='size_3'class="dropdown-item" href="#">25</p>
+                <p id='size_4'class="dropdown-item" href="#">30</p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class='container'>
+        <table id='mazeTable'class='offBottom'></table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+
+<script src="build_maze.js"></script>
+<script src="solve_maze.js"></script>
+
+</script>
+
+</html>
