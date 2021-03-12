@@ -1,0 +1,53 @@
+td{
+  height: 30px;
+  width: 30px;
+  /* border: 1px solid black !important; */
+}
+
+table{
+  margin: auto;
+  margin-top: 50px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+}
+
+h3{
+  text-align: center;
+}
+
+.offTop{
+  margin-top: 50px;
+}
+
+.offBottom{
+  margin-bottom: 50px;
+}
+
+.control_buttons{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.s_grid{
+  padding: 100px;
+}
+
+.center{
+  padding: 50px;
+  background: green;
+}
+
+.dropdown{
+  text-align: right;
+}
+
+.slider{
+  width: 100%;
+}
+
+.center_text{
+  text-align: center;
+}
