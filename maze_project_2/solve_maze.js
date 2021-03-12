@@ -3,7 +3,7 @@
 
 
 var visited_cells = [[0,0]];
-var solve_speed = 100;
+var solve_speed = 250;
 var size = 20;
 
 maze = new Maze(size, size);
